@@ -10,7 +10,13 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
+# json server
+npx json-server --port 9999 db.json
+
 ```
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
